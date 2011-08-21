@@ -1,0 +1,27 @@
+#piggy {
+display: none; 
+position: absolute;
+background-color: #999;
+width: 200px;
+}
+
+#pastorhide {
+	 display:none;
+}
+#piggypush {
+	
+}
+
+.tops {
+	display: block;
+	min-height:30px;
+	width: 100%;
+	background-color: #333;
+}
+
+.bottoms {
+	display: block;
+	min-height:30px;
+	width: 100%;
+	background-color: #333;
+}
