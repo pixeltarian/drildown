@@ -16,12 +16,16 @@ width: 200px;
 	display: block;
 	min-height:30px;
 	width: 100%;
-	background-color: #333;
+	background: url('top.png');
+}
+
+.middles {
+	background: url('middle.png');	
 }
 
 .bottoms {
 	display: block;
 	min-height:30px;
 	width: 100%;
-	background-color: #333;
+	background: url('bottom.png');
 }
